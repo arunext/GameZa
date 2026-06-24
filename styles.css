@@ -1332,20 +1332,26 @@ body::before {
    ========================================================================== */
 .topic-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 24px;
-  max-width: 1000px;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  max-width: 1200px;
   margin: 0 auto 40px auto;
   justify-content: center;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1024px) {
+  .topic-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
   .topic-grid {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 480px) {
   .topic-grid {
     grid-template-columns: 1fr;
     max-width: 320px;
