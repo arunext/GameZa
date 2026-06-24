@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BLINK Runner: BLACKPINK Quiz Challenge</title>
+  <meta name="description" content="Choose your favorite BLACKPINK member, run through the levels, and prove your BLINK knowledge in this fast-paced neon runner quiz game!">
+  
+  <!-- Google Fonts for premium typography -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=Outfit:wght@400;600;800;900&display=swap" rel="stylesheet">
+  
+  <!-- FontAwesome for icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  
+  <!-- Main Stylesheet -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Background Noise/Static for premium texture -->
+  <div class="bg-noise"></div>
+  
+  <!-- Sound and Theme Settings -->
+  <div class="top-controls">
+    <button id="btn-sound" class="control-btn" title="Toggle Sound">
+      <i id="sound-icon" class="fas fa-volume-up"></i>
+    </button>
+    <button id="btn-restart" class="control-btn hidden" title="Restart Game">
+      <i class="fas fa-redo"></i>
+    </button>
+  </div>
+
+  <!-- Main Game Container -->
+  <main class="game-container">
+    
+    <!-- ================= SCREEN 1: CHARACTER SELECTION ================= -->
+    <section id="screen-selection" class="screen active">
+      <header class="selection-header">
+        <h1 class="logo-text">BLINK <span>RUNNER</span></h1>
+        <p class="subtitle">CHOOSE YOUR MEMBER & RUN THE QUIZ STAGE</p>
+      </header>
+
+      <div class="character-grid">
+        <!-- Jisoo Card -->
+        <div class="char-card" data-char="jisoo">
+          <div class="char-card-glow"></div>
+          <div class="char-img-container">
+            <img src="assets/jisoo.png" alt="Jisoo" class="char-avatar-img">
+          </div>
+          <div class="char-info">
+            <h2 class="char-name">JISOO</h2>
+            <p class="char-role">Lead Vocalist & Visual</p>
+            <p class="char-tagline">"The Elegant & Sweet Visual Queen"</p>
+          </div>
+          <button class="select-btn">CHOOSE JISOO</button>
+        </div>
+
+        <!-- Jennie Card -->
+        <div class="char-card" data-char="jennie">
+          <div class="char-card-glow"></div>
+          <div class="char-img-container">
+            <img src="assets/jennie.png" alt="Jennie" class="char-avatar-img">
+          </div>
+          <div class="char-info">
+            <h2 class="char-name">JENNIE</h2>
+            <p class="char-role">Main Rapper & Lead Vocalist</p>
+            <p class="char-tagline">"The Charismatic & Trendsetting Icon"</p>
+          </div>
+          <button class="select-btn">CHOOSE JENNIE</button>
+        </div>
+
+        <!-- Rosé Card -->
+        <div class="char-card" data-char="rose">
+          <div class="char-card-glow"></div>
+          <div class="char-img-container">
+            <img src="assets/rose.png" alt="Rosé" class="char-avatar-img">
+          </div>
+          <div class="char-info">
+            <h2 class="char-name">ROSÉ</h2>
+            <p class="char-role">Main Vocalist & Lead Dancer</p>
+            <p class="char-tagline">"The Golden Voice & Guitarist"</p>
+          </div>
+          <button class="select-btn">CHOOSE ROSÉ</button>
+        </div>
+
+        <!-- Lisa Card -->
+        <div class="char-card" data-char="lisa">
+          <div class="char-card-glow"></div>
+          <div class="char-img-container">
+            <img src="assets/lisa.png" alt="Lisa" class="char-avatar-img">
+          </div>
+          <div class="char-info">
+            <h2 class="char-name">LISA</h2>
+            <p class="char-role">Main Dancer & Lead Rapper</p>
+            <p class="char-tagline">"The Energetic & Cool Dancing Machine"</p>
+          </div>
+          <button class="select-btn">CHOOSE LISA</button>
+        </div>
+      </div>
+
+      <footer class="selection-footer">
+        <div class="rules-box">
+          <h3><i class="fas fa-gamepad"></i> Game Rules:</h3>
+          <ul>
+            <li><i class="fas fa-arrow-right"></i> Answer <strong>10 questions correct continuously</strong> (streak) to level up.</li>
+            <li><i class="fas fa-exclamation-triangle"></i> Getting a question incorrect resets your streak and sends you <strong>back 3 steps</strong>!</li>
+            <li><i class="fas fa-running"></i> Your character runs faster as your streak increases. Run to the concert stage!</li>
+          </ul>
+        </div>
+      </footer>
+    </section>
+
+    <!-- ================= SCREEN 1.5: TOPIC SELECTION ================= -->
+    <section id="screen-topic" class="screen hidden">
+      <header class="selection-header">
+        <h1 class="logo-text">SELECT <span>STAGE</span></h1>
+        <p class="subtitle">CHOOSE YOUR QUIZ TOUR DESTINATION</p>
+      </header>
+
+      <div class="topic-grid">
+        <!-- BLACKPINK Topic Card -->
+        <div class="topic-card card-pink" data-topic="blackpink">
+          <div class="topic-card-glow"></div>
+          <div class="topic-icon">
+            <i class="fas fa-music"></i>
+          </div>
+          <div class="topic-info">
+            <h2 class="topic-title">BLACKPINK STAGE</h2>
+            <p class="topic-desc">Test your knowledge on Jisoo, Jennie, Rosé, and Lisa!</p>
+          </div>
+          <button class="select-btn">SELECT STAGE</button>
+        </div>
+
+        <!-- Flags Topic Card -->
+        <div class="topic-card card-cyan" data-topic="flags">
+          <div class="topic-card-glow"></div>
+          <div class="topic-icon">
+            <i class="fas fa-flag"></i>
+          </div>
+          <div class="topic-info">
+            <h2 class="topic-title">WORLD FLAGS</h2>
+            <p class="topic-desc">Travel the globe and guess countries by their colorful flags.</p>
+          </div>
+          <button class="select-btn">SELECT STAGE</button>
+        </div>
+
+        <!-- BTS Topic Card -->
+        <div class="topic-card card-purple" data-topic="bts">
+          <div class="topic-card-glow"></div>
+          <div class="topic-icon">
+            <i class="fas fa-heart"></i>
+          </div>
+          <div class="topic-info">
+            <h2 class="topic-title">BTS UNIVERSE</h2>
+            <p class="topic-desc">Trivia about RM, Jin, Suga, j-hope, Jimin, V, and Jungkook!</p>
+          </div>
+          <button class="select-btn">SELECT STAGE</button>
+        </div>
+
+        <!-- Japan Topic Card -->
+        <div class="topic-card card-red" data-topic="japan">
+          <div class="topic-card-glow"></div>
+          <div class="topic-icon">
+            <i class="fas fa-torii-gate"></i>
+          </div>
+          <div class="topic-info">
+            <h2 class="topic-title">JAPAN EXPLORATION</h2>
+            <p class="topic-desc">Explore shrines, high-speed bullet trains, sushi, and anime culture.</p>
+          </div>
+          <button class="select-btn">SELECT STAGE</button>
+        </div>
+
+        <!-- Riddles Topic Card -->
+        <div class="topic-card card-gold" data-topic="riddles">
+          <div class="topic-card-glow"></div>
+          <div class="topic-icon">
+            <i class="fas fa-lightbulb"></i>
+          </div>
+          <div class="topic-info">
+            <h2 class="topic-title">RIDDLE MASTER</h2>
+            <p class="topic-desc">Solve fun, clever, and mind-bending riddles for quick runners!</p>
+          </div>
+          <button class="select-btn">SELECT STAGE</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= SCREEN 2: GAMEPLAY ================= -->
+    <section id="screen-game" class="screen hidden">
+      
+      <!-- Part 1: Runner Arena (The visual game world) -->
+      <div class="runner-arena">
+        <!-- Parallax Background Layers -->
+        <div class="parallax-bg layer-stadium"></div>
+        <div class="parallax-bg layer-crowd"></div>
+        <div class="parallax-bg layer-stage-lights"></div>
+        <div class="spotlights-container">
+          <div class="spotlight spotlight-left"></div>
+          <div class="spotlight spotlight-right"></div>
+        </div>
+
+        <!-- The track on which the character runs -->
+        <div class="running-track">
+          <div class="track-line"></div>
+          
+          <!-- Running Character Sprite Container -->
+          <div id="runner-character" class="runner-character run-state">
+            <div class="character-glow"></div>
+            <img id="runner-img" src="assets/rose.png" alt="Runner">
+            <!-- Trail Particles Canvas for speed effect -->
+            <canvas id="trail-canvas"></canvas>
+          </div>
+
+          <!-- Finish Line (Concert Stage Gate) -->
+          <div class="finish-gate">
+            <i class="fas fa-music"></i>
+            <div class="gate-lights"></div>
+          </div>
+        </div>
+
+        <!-- Level Progress Track (Visual indicator of steps 0 to 10) -->
+        <div class="track-progress-container">
+          <div class="progress-bar-glow"></div>
+          <div class="progress-bar-fill" id="track-fill"></div>
+          <div class="progress-milestones">
+            <span class="milestone active" data-step="0">Start</span>
+            <span class="milestone" data-step="3">3</span>
+            <span class="milestone" data-step="6">6</span>
+            <span class="milestone" data-step="9">9</span>
+            <span class="milestone finish-milestone" data-step="10"><i class="fas fa-crown"></i> STAGE</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Part 2: Quiz Panel -->
+      <div class="quiz-panel">
+        <!-- Status Bar inside the quiz panel -->
+        <div class="quiz-status">
+          <div class="status-item">
+            <span class="label">LEVEL</span>
+            <span id="level-num" class="value text-neon-pink">1</span>
+          </div>
+          <div class="status-item">
+            <span class="label">STREAK</span>
+            <span id="streak-num" class="value text-neon-pink">0 / 10</span>
+          </div>
+          <div class="status-item">
+            <span class="label">SCORE</span>
+            <span id="score-num" class="value text-neon-gold">0</span>
+          </div>
+        </div>
+
+        <!-- Streak progress flame display -->
+        <div class="streak-indicator-container">
+          <div class="streak-dots" id="streak-dots">
+            <!-- 10 dots will be generated via JavaScript -->
+          </div>
+        </div>
+
+        <!-- Question container -->
+        <div class="question-container">
+          <h3 id="question-text">Question text goes here?</h3>
+        </div>
+
+        <!-- Options grid -->
+        <div class="options-grid" id="options-grid">
+          <!-- 4 option buttons will be generated via JS -->
+          <button class="option-btn">Option A</button>
+          <button class="option-btn">Option B</button>
+          <button class="option-btn">Option C</button>
+          <button class="option-btn">Option D</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= SCREEN 3: CELEBRATION / LEVEL UP ================= -->
+    <div id="overlay-level-up" class="overlay hidden">
+      <div class="overlay-content">
+        <div class="trophy-glow"></div>
+        <div class="level-up-icon">
+          <i class="fas fa-star text-neon-pink animate-bounce"></i>
+        </div>
+        <h2 class="overlay-title text-neon-pink animate-pulse">STAGE CLEAR!</h2>
+        <p class="overlay-subtitle">Level <span id="cleared-level">1</span> Complete</p>
+        <p class="streak-congrats">10 Consecutive Correct Answers!</p>
+        <div class="overlay-character-showcase">
+          <img id="overlay-char-img" src="assets/rose.png" alt="Celebration Character">
+        </div>
+        <button id="btn-next-level" class="action-btn neon-glow-pink">NEXT STAGE</button>
+      </div>
+      <canvas id="confetti-canvas"></canvas>
+    </div>
+
+    <!-- ================= SCREEN 4: VICTORY / FINAL WIN ================= -->
+    <section id="screen-victory" class="screen hidden">
+      <div class="victory-content">
+        <div class="crown-glow animate-pulse">
+          <i class="fas fa-crown text-neon-gold"></i>
+        </div>
+        <h1 class="victory-title text-neon-pink">ULTIMATE BLINK CHAMPION!</h1>
+        <p class="victory-subtitle">You cleared all stages with your runner!</p>
+        
+        <div class="victory-showcase">
+          <div class="spotlight-center"></div>
+          <img id="victory-char-img" src="assets/rose.png" alt="Winning Character" class="winning-char-img">
+        </div>
+
+        <div class="victory-stats">
+          <div class="stat-card">
+            <span class="stat-label">Final Score</span>
+            <span id="final-score" class="stat-value text-neon-gold">0</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">Member Selected</span>
+            <span id="final-member" class="stat-value text-neon-pink">-</span>
+          </div>
+        </div>
+
+        <div class="victory-actions">
+          <button id="btn-play-again" class="action-btn neon-glow-pink">PLAY AGAIN</button>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Interactive particles overlay (success sparkles, wrong red flashes) -->
+  <div id="flash-effect" class="flash-effect"></div>
+
+  <!-- JavaScript Source -->
+  <script src="game.js"></script>
+</body>
+</html>
