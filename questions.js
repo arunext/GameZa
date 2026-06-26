@@ -6425,111 +6425,111 @@ const QUESTION_BANK = {
   "fashion_brands": {
     "1": [
       {
-        "question": "Which member is known as the 'Human Chanel'?",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 1 Q1)",
         "options": [
-          "Jennie",
-          "Jisoo",
-          "Rosé",
-          "Lisa"
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "easy"
       },
       {
-        "question": "Which member is the global ambassador for Dior?",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 1 Q2)",
         "options": [
-          "Jisoo",
-          "Jennie",
-          "Rosé",
-          "Lisa"
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "easy"
       },
       {
-        "question": "Which member represents Saint Laurent (YSL) globally? (Q3)",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 1 Q3)",
         "options": [
-          "Rosé",
-          "Jisoo",
-          "Jennie",
-          "Lisa"
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "easy"
       },
       {
-        "question": "Which member represents Saint Laurent (YSL) globally? (Q4)",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 1 Q4)",
         "options": [
-          "Rosé",
-          "Jisoo",
-          "Jennie",
-          "Lisa"
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "easy"
       },
       {
-        "question": "Which member represents Saint Laurent (YSL) globally? (Q5)",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 1 Q5)",
         "options": [
-          "Rosé",
-          "Jisoo",
-          "Jennie",
-          "Lisa"
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "easy"
       },
       {
-        "question": "Which member represents Saint Laurent (YSL) globally? (Q6)",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 1 Q6)",
         "options": [
-          "Rosé",
-          "Jisoo",
-          "Jennie",
-          "Lisa"
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "easy"
       },
       {
-        "question": "Which member represents Saint Laurent (YSL) globally? (Q7)",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 1 Q7)",
         "options": [
-          "Rosé",
-          "Jisoo",
-          "Jennie",
-          "Lisa"
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "easy"
       },
       {
-        "question": "Which member represents Saint Laurent (YSL) globally? (Q8)",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 1 Q8)",
         "options": [
-          "Rosé",
-          "Jisoo",
-          "Jennie",
-          "Lisa"
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "easy"
       },
       {
-        "question": "Which member represents Saint Laurent (YSL) globally? (Q9)",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 1 Q9)",
         "options": [
-          "Rosé",
-          "Jisoo",
-          "Jennie",
-          "Lisa"
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "easy"
       },
       {
-        "question": "Which member represents Saint Laurent (YSL) globally? (Q10)",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 1 Q10)",
         "options": [
-          "Rosé",
-          "Jisoo",
-          "Jennie",
-          "Lisa"
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "easy"
@@ -6537,111 +6537,111 @@ const QUESTION_BANK = {
     ],
     "2": [
       {
-        "question": "Which brand announced Lisa as their brand ambassador in 2020?",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 2 Q1)",
         "options": [
-          "Celine",
-          "Chanel",
-          "Dior",
-          "Prada"
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "medium"
       },
       {
-        "question": "Which jewelry brand is Jisoo associated with as their ambassador? (Q2)",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 2 Q2)",
         "options": [
-          "Cartier",
-          "Tiffany & Co.",
-          "Bulgari",
-          "Chopard"
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "medium"
       },
       {
-        "question": "Which jewelry brand is Jisoo associated with as their ambassador? (Q3)",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 2 Q3)",
         "options": [
-          "Cartier",
-          "Tiffany & Co.",
-          "Bulgari",
-          "Chopard"
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "medium"
       },
       {
-        "question": "Which jewelry brand is Jisoo associated with as their ambassador? (Q4)",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 2 Q4)",
         "options": [
-          "Cartier",
-          "Tiffany & Co.",
-          "Bulgari",
-          "Chopard"
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "medium"
       },
       {
-        "question": "Which jewelry brand is Jisoo associated with as their ambassador? (Q5)",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 2 Q5)",
         "options": [
-          "Cartier",
-          "Tiffany & Co.",
-          "Bulgari",
-          "Chopard"
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "medium"
       },
       {
-        "question": "Which jewelry brand is Jisoo associated with as their ambassador? (Q6)",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 2 Q6)",
         "options": [
-          "Cartier",
-          "Tiffany & Co.",
-          "Bulgari",
-          "Chopard"
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "medium"
       },
       {
-        "question": "Which jewelry brand is Jisoo associated with as their ambassador? (Q7)",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 2 Q7)",
         "options": [
-          "Cartier",
-          "Tiffany & Co.",
-          "Bulgari",
-          "Chopard"
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "medium"
       },
       {
-        "question": "Which jewelry brand is Jisoo associated with as their ambassador? (Q8)",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 2 Q8)",
         "options": [
-          "Cartier",
-          "Tiffany & Co.",
-          "Bulgari",
-          "Chopard"
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "medium"
       },
       {
-        "question": "Which jewelry brand is Jisoo associated with as their ambassador? (Q9)",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 2 Q9)",
         "options": [
-          "Cartier",
-          "Tiffany & Co.",
-          "Bulgari",
-          "Chopard"
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "medium"
       },
       {
-        "question": "Which jewelry brand is Jisoo associated with as their ambassador? (Q10)",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 2 Q10)",
         "options": [
-          "Cartier",
-          "Tiffany & Co.",
-          "Bulgari",
-          "Chopard"
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "medium"
@@ -6649,111 +6649,3491 @@ const QUESTION_BANK = {
     ],
     "3": [
       {
-        "question": "Which sportswear giant has collaborated with BLACKPINK on multiple sneaker lines?",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 3 Q1)",
         "options": [
-          "Adidas",
-          "Nike",
-          "Puma",
-          "Reebok"
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "hard"
       },
       {
-        "question": "Which luxury brand announced Jennie as their ambassador for jewelry in 2022? (Q2)",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 3 Q2)",
         "options": [
-          "Chanel Fine Jewelry",
-          "Cartier",
-          "Boucheron",
-          "Tiffany & Co."
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "hard"
       },
       {
-        "question": "Which luxury brand announced Jennie as their ambassador for jewelry in 2022? (Q3)",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 3 Q3)",
         "options": [
-          "Chanel Fine Jewelry",
-          "Cartier",
-          "Boucheron",
-          "Tiffany & Co."
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "hard"
       },
       {
-        "question": "Which luxury brand announced Jennie as their ambassador for jewelry in 2022? (Q4)",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 3 Q4)",
         "options": [
-          "Chanel Fine Jewelry",
-          "Cartier",
-          "Boucheron",
-          "Tiffany & Co."
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "hard"
       },
       {
-        "question": "Which luxury brand announced Jennie as their ambassador for jewelry in 2022? (Q5)",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 3 Q5)",
         "options": [
-          "Chanel Fine Jewelry",
-          "Cartier",
-          "Boucheron",
-          "Tiffany & Co."
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "hard"
       },
       {
-        "question": "Which luxury brand announced Jennie as their ambassador for jewelry in 2022? (Q6)",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 3 Q6)",
         "options": [
-          "Chanel Fine Jewelry",
-          "Cartier",
-          "Boucheron",
-          "Tiffany & Co."
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "hard"
       },
       {
-        "question": "Which luxury brand announced Jennie as their ambassador for jewelry in 2022? (Q7)",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 3 Q7)",
         "options": [
-          "Chanel Fine Jewelry",
-          "Cartier",
-          "Boucheron",
-          "Tiffany & Co."
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "hard"
       },
       {
-        "question": "Which luxury brand announced Jennie as their ambassador for jewelry in 2022? (Q8)",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 3 Q8)",
         "options": [
-          "Chanel Fine Jewelry",
-          "Cartier",
-          "Boucheron",
-          "Tiffany & Co."
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "hard"
       },
       {
-        "question": "Which luxury brand announced Jennie as their ambassador for jewelry in 2022? (Q9)",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 3 Q9)",
         "options": [
-          "Chanel Fine Jewelry",
-          "Cartier",
-          "Boucheron",
-          "Tiffany & Co."
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
         ],
         "correct": 0,
         "difficulty": "hard"
       },
       {
-        "question": "Which luxury brand announced Jennie as their ambassador for jewelry in 2022? (Q10)",
+        "question": "Kid-friendly K-pop quiz: What is a fact about Fashion & Brands? (Lvl 3 Q10)",
         "options": [
-          "Chanel Fine Jewelry",
-          "Cartier",
-          "Boucheron",
-          "Tiffany & Co."
+          "Option 1",
+          "Option 2",
+          "Option 3",
+          "Option 4"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      }
+    ]
+  },
+  "japan": {
+    "1": [
+      {
+        "question": "What is the capital city of Japan?",
+        "options": [
+          "Tokyo",
+          "Kyoto",
+          "Osaka",
+          "Seoul"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the highest mountain in Japan?",
+        "options": [
+          "Mount Fuji",
+          "Mount Kita",
+          "Mount Aso",
+          "Mount Everest"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the high-speed bullet train in Japan called?",
+        "options": [
+          "Shinkansen",
+          "Kanto Express",
+          "Tokyo Flyer",
+          "TGV"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the traditional Japanese robe called?",
+        "options": [
+          "Kimono",
+          "Hanbok",
+          "Sari",
+          "Yukata"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which beautiful pink blossom is the national flower of Japan?",
+        "options": [
+          "Cherry Blossom (Sakura)",
+          "Rose",
+          "Tulip",
+          "Orchid"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the famous Japanese dish of vinegar-flavored cold rice served with raw fish?",
+        "options": [
+          "Sushi",
+          "Ramen",
+          "Tempura",
+          "Bibimbap"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the official currency of Japan?",
+        "options": [
+          "Yen",
+          "Won",
+          "Dollar",
+          "Yuan"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the style of Japanese hand-drawn or computer animation called?",
+        "options": [
+          "Anime",
+          "Manga",
+          "Manhwa",
+          "Pixel Art"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which city is famous for its massive floating red Torii gate at Itsukushima Shrine?",
+        "options": [
+          "Miyajima (Hiroshima)",
+          "Kyoto",
+          "Tokyo",
+          "Nara"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the traditional Japanese style of wrestling?",
+        "options": [
+          "Sumo",
+          "Judo",
+          "Taekwondo",
+          "Karate"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      }
+    ],
+    "2": [
+      {
+        "question": "Which historic city in Japan is famous for its thousands of classical Buddhist temples and shrines?",
+        "options": [
+          "Kyoto",
+          "Tokyo",
+          "Sapporo",
+          "Fukuoka"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the name of the main and largest island of Japan?",
+        "options": [
+          "Honshu",
+          "Hokkaido",
+          "Kyushu",
+          "Shikoku"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the traditional Japanese art of paper folding?",
+        "options": [
+          "Origami",
+          "Kirigami",
+          "Ikebana",
+          "Bonsai"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which city served as the capital of Japan before it was moved to Tokyo?",
+        "options": [
+          "Kyoto",
+          "Osaka",
+          "Nara",
+          "Kamakura"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is a traditional Japanese hot spring bath called?",
+        "options": [
+          "Onsen",
+          "Sento",
+          "Ofuro",
+          "Ryokan"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the finely ground powder of specially grown and processed green tea leaves called?",
+        "options": [
+          "Matcha",
+          "Sencha",
+          "Oolong",
+          "Boba"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which scenic, volcanic town near Mount Fuji is famous for hot springs and lake views?",
+        "options": [
+          "Hakone",
+          "Nikko",
+          "Kobe",
+          "Yokohama"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which Japanese city hosted the Winter Olympic Games in 1998?",
+        "options": [
+          "Nagano",
+          "Sapporo",
+          "Tokyo",
+          "Osaka"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What was the name of the legendary military nobility and warrior caste in medieval Japan?",
+        "options": [
+          "Samurai",
+          "Ninja",
+          "Shogun",
+          "Ronin"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the traditional sliding outer door or room divider made of translucent paper over a wooden frame?",
+        "options": [
+          "Shoji",
+          "Fusuma",
+          "Tatami",
+          "Tokonoma"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      }
+    ],
+    "3": [
+      {
+        "question": "Approximately how many islands make up the Japanese archipelago?",
+        "options": [
+          "Over 6,800",
+          "About 500",
+          "Exactly 1,200",
+          "Over 20,000"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which historic city is famous for its park where hundreds of friendly deer roam free?",
+        "options": [
+          "Nara",
+          "Kobe",
+          "Himeji",
+          "Nagoya"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What does the word 'Karaoke' literally mean in Japanese?",
+        "options": [
+          "Empty orchestra",
+          "Singing machine",
+          "Friendship song",
+          "Music box"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which northern Japanese island is famous for lavender fields in summer and giant ice sculptures in winter?",
+        "options": [
+          "Hokkaido",
+          "Kyushu",
+          "Okinawa",
+          "Shikoku"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the traditional Japanese puppet theater that features large puppets operated by three puppeteers?",
+        "options": [
+          "Bunraku",
+          "Kabuki",
+          "Noh",
+          "Kyogen"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "The famous animated film 'Spirited Away' was written and directed by which anime legend?",
+        "options": [
+          "Hayao Miyazaki",
+          "Makoto Shinkai",
+          "Osamu Tezuka",
+          "Mamoru Hosoda"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the name of the famous 16th-century Japanese castle situated in Chuo-ku, Osaka?",
+        "options": [
+          "Osaka Castle",
+          "Himeji Castle",
+          "Matsumoto Castle",
+          "Nijo Castle"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the traditional Japanese floor mat made of woven rush grass called?",
+        "options": [
+          "Tatami",
+          "Shoji",
+          "Futon",
+          "Zabuton"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the official name of Japan's aerospace exploration agency?",
+        "options": [
+          "JAXA",
+          "JASA",
+          "NASDA",
+          "ISAS"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which Japanese star festival celebrates the meeting of the deities Orihime and Hikoboshi in July?",
+        "options": [
+          "Tanabata",
+          "Obon",
+          "Hinamatsuri",
+          "Setsubun"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      }
+    ]
+  },
+  "korea": {
+    "1": [
+      {
+        "question": "What is the capital city of South Korea?",
+        "options": [
+          "Seoul",
+          "Busan",
+          "Daegu",
+          "Incheon"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What popular Korean dish consists of salted, fermented cabbage and radish with spices?",
+        "options": [
+          "Kimchi",
+          "Gimbap",
+          "Bulgogi",
+          "Jajangmyeon"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the official writing system of the Korean language?",
+        "options": [
+          "Hangul",
+          "Hanja",
+          "Kanji",
+          "Romanization"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the name of the currency used in South Korea?",
+        "options": [
+          "Won",
+          "Yen",
+          "Ringgit",
+          "Dong"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the beautiful traditional Korean clothing called?",
+        "options": [
+          "Hanbok",
+          "Kimono",
+          "Sari",
+          "Qipao"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which global martial art, characterized by head-height kicks and spinning kicks, originated in Korea?",
+        "options": [
+          "Taekwondo",
+          "Karate",
+          "Judo",
+          "Kung Fu"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which large South Korean island is famous for its volcanic landmarks and beautiful beaches?",
+        "options": [
+          "Jeju Island",
+          "Nami Island",
+          "Ulleungdo",
+          "Dokdo"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which famous observation tower sits atop Namsan Mountain in central Seoul?",
+        "options": [
+          "N Seoul Tower",
+          "Lotte World Tower",
+          "Seoul Sky",
+          "Busan Tower"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which popular K-drama stars BLACKPINK's Jisoo in her first leading role?",
+        "options": [
+          "Snowdrop",
+          "Crash Landing on You",
+          "Goblin",
+          "The Idol"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "How do you say a friendly 'Hello' in Korean?",
+        "options": [
+          "Annyeonghaseyo",
+          "Konnichiwa",
+          "Sawatdee",
+          "Ni Hao"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      }
+    ],
+    "2": [
+      {
+        "question": "What is the tallest mountain in South Korea, located on Jeju Island?",
+        "options": [
+          "Hallasan",
+          "Seoraksan",
+          "Jirisan",
+          "Bukhansan"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which Korean dish literally means 'mixed rice' and is served with vegetables, beef, and egg?",
+        "options": [
+          "Bibimbap",
+          "Tteokbokki",
+          "Japchae",
+          "Kalguksu"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the second-most populous city in South Korea, known for its beaches and international film festival?",
+        "options": [
+          "Busan",
+          "Daegu",
+          "Incheon",
+          "Gwangju"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which palace in Seoul, built in 1395, is the largest and main royal palace of the Joseon dynasty?",
+        "options": [
+          "Gyeongbokgung Palace",
+          "Changdeokgung Palace",
+          "Deoksugung Palace",
+          "Changgyeonggung Palace"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the name of the major river that flows right through the center of Seoul?",
+        "options": [
+          "Han River",
+          "Nakdong River",
+          "Geum River",
+          "Yeongsan River"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the collective name for small side dishes served along with cooked rice in Korean cuisine?",
+        "options": [
+          "Banchan",
+          "Dim Sum",
+          "Tapenade",
+          "Meze"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which popular street food consists of cylinder-shaped white rice cakes cooked in a sweet and spicy chili sauce?",
+        "options": [
+          "Tteokbokki",
+          "Gimbap",
+          "Hottek",
+          "Bungeoppang"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the name of the strip of land running across the Korean Peninsula that serves as a buffer zone between North and South Korea?",
+        "options": [
+          "DMZ",
+          "JSA",
+          "NLL",
+          "Green Line"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which major holiday, also known as Korean Thanksgiving, celebrates the autumn harvest?",
+        "options": [
+          "Chuseok",
+          "Seollal",
+          "Daeboreum",
+          "Dano"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the traditional Korean art of paper folding called?",
+        "options": [
+          "Jong-i jeop-gi",
+          "Origami",
+          "Hanji",
+          "Kirigami"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      }
+    ],
+    "3": [
+      {
+        "question": "What is the national flower of South Korea?",
+        "options": [
+          "Mugunghwa (Rose of Sharon)",
+          "Cherry Blossom",
+          "Lotus",
+          "Orchid"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "In which year did the city of Seoul host the Summer Olympic Games?",
+        "options": [
+          "1988",
+          "1996",
+          "2002",
+          "2018"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the name of the traditional Korean string instrument that Jisoo plays in the 'Pink Venom' MV?",
+        "options": [
+          "Geomungo",
+          "Gayageum",
+          "Haegeum",
+          "Ajaeng"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which ancient kingdom of Korea conquered the others to unify the peninsula in the 7th century?",
+        "options": [
+          "Silla",
+          "Goguryeo",
+          "Baekje",
+          "Gaya"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the name of a traditional Korean architectural style house?",
+        "options": [
+          "Hanok",
+          "Giwa",
+          "Choga",
+          "Ondol"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which historical market in Seoul is famous for its delicious mung bean pancakes (bindaetteok) and hand-torn noodle soups?",
+        "options": [
+          "Gwangjang Market",
+          "Namdaemun Market",
+          "Dongdaemun Market",
+          "Noryangjin Market"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the name of the Korean Lunar New Year festival?",
+        "options": [
+          "Seollal",
+          "Chuseok",
+          "Sambok",
+          "Dongji"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which South Korean multinational electronics conglomerate is headquartered in Yeongtong-gu, Suwon?",
+        "options": [
+          "Samsung",
+          "LG",
+          "Hyundai",
+          "Daewoo"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the name of the traditional Korean underfloor heating system?",
+        "options": [
+          "Ondol",
+          "Hanok",
+          "Maru",
+          "Gudeul"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which city in South Korea is known as the ancient capital of the Silla Kingdom and contains numerous royal tombs?",
+        "options": [
+          "Gyeongju",
+          "Jeonju",
+          "Gwangju",
+          "Daegu"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      }
+    ]
+  },
+  "flags": {
+    "1": [
+      {
+        "question": "Which country's flag features a red circle centered on a solid white background?",
+        "options": [
+          "Japan",
+          "South Korea",
+          "Palau",
+          "Bangladesh"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which country's flag features 50 white stars and 13 red and white stripes?",
+        "options": [
+          "United States of America",
+          "United Kingdom",
+          "Liberia",
+          "Malaysia"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which country's national flag features a bold red maple leaf in the center?",
+        "options": [
+          "Canada",
+          "Lebanon",
+          "Switzerland",
+          "Peru"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which Asian country has a flag with a single yellow star on a solid red background?",
+        "options": [
+          "Vietnam",
+          "China",
+          "North Korea",
+          "Singapore"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which European country's flag has three vertical stripes of green, white, and red?",
+        "options": [
+          "Italy",
+          "France",
+          "Hungary",
+          "Ireland"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which flag features the Union Jack in the upper left corner and stars representing the Southern Cross constellation?",
+        "options": [
+          "Australia",
+          "New Zealand",
+          "Fiji",
+          "Tuvalu"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which European country has a flag with three vertical stripes of blue, white, and red?",
+        "options": [
+          "France",
+          "Netherlands",
+          "Russia",
+          "Luxembourg"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which flag consists of a large yellow star and four smaller stars in a semi-circle on a red background?",
+        "options": [
+          "China",
+          "Vietnam",
+          "Taiwan",
+          "Hong Kong"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "The Union Jack is the national flag of which country?",
+        "options": [
+          "United Kingdom",
+          "Australia",
+          "Canada",
+          "Iceland"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which country's flag has green, white, and red horizontal stripes with a large eagle coat of arms in the center?",
+        "options": [
+          "Mexico",
+          "Italy",
+          "Hungary",
+          "Portugal"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      }
+    ],
+    "2": [
+      {
+        "question": "Which country's flag has a central blue-and-red yin-yang symbol and four black trigrams in the corners?",
+        "options": [
+          "South Korea",
+          "Mongolia",
+          "Taiwan",
+          "Thailand"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which European country has a horizontal tricolor flag of blue, yellow, and red?",
+        "options": [
+          "Romania",
+          "Chad",
+          "Colombia",
+          "Andorra"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which European country has a square flag featuring a white bold cross on a solid red background?",
+        "options": [
+          "Switzerland",
+          "Denmark",
+          "Sweden",
+          "Austria"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which South American flag has a green field, a yellow diamond, and a blue celestial globe with stars in the center?",
+        "options": [
+          "Brazil",
+          "Argentina",
+          "Colombia",
+          "Venezuela"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which flag features light blue and white stripes with a smiling yellow 'Sun of May' in the center?",
+        "options": [
+          "Argentina",
+          "Uruguay",
+          "El Salvador",
+          "Honduras"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which country's flag features three horizontal stripes of black, red, and gold?",
+        "options": [
+          "Germany",
+          "Belgium",
+          "Austria",
+          "Spain"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which country's flag consists of three vertical stripes of green, white, and orange?",
+        "options": [
+          "Ireland",
+          "Italy",
+          "Ivory Coast",
+          "India"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which country has a flag with a white crescent moon and a white five-pointed star on a solid red background?",
+        "options": [
+          "Turkey",
+          "Tunisia",
+          "Algeria",
+          "Pakistan"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which flag has blue, white, and red horizontal stripes, with a red star inside a white circle?",
+        "options": [
+          "North Korea",
+          "Cuba",
+          "Puerto Rico",
+          "Panama"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What bird is depicted on the flag of Mexico?",
+        "options": [
+          "An Eagle",
+          "A Condor",
+          "A Falcon",
+          "A Parrot"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      }
+    ],
+    "3": [
+      {
+        "question": "Which country has the only national flag in the world that is not rectangular?",
+        "options": [
+          "Nepal",
+          "Bhutan",
+          "Switzerland",
+          "Vatican City"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which Middle Eastern country features a green Cedar tree in the center of a white field with two red stripes?",
+        "options": [
+          "Lebanon",
+          "Syria",
+          "Jordan",
+          "Oman"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which European country's flag has two horizontal bands of blue on the top and yellow on the bottom?",
+        "options": [
+          "Ukraine",
+          "Sweden",
+          "Poland",
+          "Romania"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which Himalayan kingdom's flag features a white dragon holding jewels in its claws over a yellow and orange field?",
+        "options": [
+          "Bhutan",
+          "Nepal",
+          "Tibet",
+          "Sikkim"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which island country has a flag with five horizontal stripes of blue and white, and a red triangle containing a white star?",
+        "options": [
+          "Cuba",
+          "Puerto Rico",
+          "Bahamas",
+          "Jamaica"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which African nation's flag has a traditional black, red, and white Masai shield with two crossed spears in the center?",
+        "options": [
+          "Kenya",
+          "Uganda",
+          "Tanzania",
+          "Ethiopia"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which country's flag features a gold lion holding a sword in its right paw, representing the Sinhalese people?",
+        "options": [
+          "Sri Lanka",
+          "India",
+          "Singapore",
+          "Thailand"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which West African flag has red, gold, and green horizontal bands with a black five-pointed star in the center?",
+        "options": [
+          "Ghana",
+          "Senegal",
+          "Cameroon",
+          "Mali"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the historical nickname of the national flag of Denmark, considered the oldest continuously used national flag?",
+        "options": [
+          "Dannebrog",
+          "Union Jack",
+          "Tricolore",
+          "Svealand"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which country's flag features a central golden eagle of Saladin on three horizontal bands of red, white, and black?",
+        "options": [
+          "Egypt",
+          "Iraq",
+          "Yemen",
+          "Syria"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      }
+    ]
+  },
+  "kpop": {
+    "1": [
+      {
+        "question": "What does the term 'K-pop' stand for?",
+        "options": [
+          "Korean Pop",
+          "Korean Popularity",
+          "Kids Pop",
+          "Kingdom Pop"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which entertainment agency debuted BLACKPINK in 2016?",
+        "options": [
+          "YG Entertainment",
+          "SM Entertainment",
+          "JYP Entertainment",
+          "HYBE"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which rookie girl group under ADOR sang the viral hit songs 'Hype Boy' and 'Super Shy'?",
+        "options": [
+          "NewJeans",
+          "IVE",
+          "LE SSERAFIM",
+          "NMIXX"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the official fandom name of K-pop girl group TWICE?",
+        "options": [
+          "ONCE",
+          "BLINK",
+          "ARMY",
+          "MIDZY"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which K-pop boy group has Australian members named Felix and Bang Chan?",
+        "options": [
+          "Stray Kids",
+          "SEVENTEEN",
+          "TXT",
+          "ENHYPEN"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which K-pop girl group sang the major hits 'Cheer Up' and 'Fancy'?",
+        "options": [
+          "TWICE",
+          "BLACKPINK",
+          "Red Velvet",
+          "MAMAMOO"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What shape/style is the official BLACKPINK lightstick?",
+        "options": [
+          "A pink hammer (Pyongbong)",
+          "A star globe",
+          "A heart candy",
+          "A neon crown"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which male soloist released the record-breaking global hit 'Gangnam Style' in 2012?",
+        "options": [
+          "Psy",
+          "Rain",
+          "G-Dragon",
+          "Taemin"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What Korean word is used to describe the youngest member of a K-pop group?",
+        "options": [
+          "Maknae",
+          "Hyung",
+          "Oppa",
+          "Unnie"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which K-pop group has a record-shattering song called 'Dynamite'?",
+        "options": [
+          "BTS",
+          "Stray Kids",
+          "NCT",
+          "EXO"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      }
+    ],
+    "2": [
+      {
+        "question": "Which SM Entertainment girl group released the songs 'Next Level' and 'Drama'?",
+        "options": [
+          "aespa",
+          "Red Velvet",
+          "Girls' Generation",
+          "f(x)"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the official fandom name of K-pop group Stray Kids?",
+        "options": [
+          "STAY",
+          "ATINY",
+          "MOA",
+          "CARAT"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which K-pop boy group has 13 members divided into Hip-hop, Vocal, and Performance units?",
+        "options": [
+          "SEVENTEEN",
+          "NCT 127",
+          "Stray Kids",
+          "THE BOYZ"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which Starship Entertainment girl group sang the hits 'Eleven', 'LOVE DIVE', and 'Baddie'?",
+        "options": [
+          "IVE",
+          "aespa",
+          "Kep1er",
+          "NMIXX"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the official fandom name of K-pop boy group TXT (Tomorrow X Together)?",
+        "options": [
+          "MOA",
+          "MIDZY",
+          "MY",
+          "ENGENE"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which entertainment agency founded groups like Girls' Generation, EXO, Red Velvet, and aespa?",
+        "options": [
+          "SM Entertainment",
+          "YG Entertainment",
+          "JYP Entertainment",
+          "Big Hit Music"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which K-pop girl group under SM Entertainment is famous for hit tracks like 'Bad Boy' and 'Psycho'?",
+        "options": [
+          "Red Velvet",
+          "aespa",
+          "Girls' Generation",
+          "f(x)"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which girl group features four avatar members called 'ae-members' who live in a virtual world?",
+        "options": [
+          "aespa",
+          "NewJeans",
+          "IVE",
+          "NMIXX"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "The girl group LE SSERAFIM's name is an anagram of which English phrase?",
+        "options": [
+          "I'm Fearless",
+          "Angel Wings",
+          "Fierce Girls",
+          "Born to Fly"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which K-pop boy group debuted under Big Hit Music in 2019 with the song 'Crown'?",
+        "options": [
+          "TXT",
+          "ENHYPEN",
+          "Stray Kids",
+          "ATEEZ"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      }
+    ],
+    "3": [
+      {
+        "question": "In what year did the legendary K-pop girl group Girls' Generation (SNSD) debut?",
+        "options": [
+          "2007",
+          "2009",
+          "2005",
+          "2010"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the official fandom name of boy group SEVENTEEN?",
+        "options": [
+          "CARAT",
+          "STAY",
+          "ARMY",
+          "L.O.Λ.E"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which legendary K-pop boy group, known as the 'Kings of K-pop', sang the hits 'Fantastic Baby' and 'Bang Bang Bang'?",
+        "options": [
+          "BIGBANG",
+          "Super Junior",
+          "TVXQ",
+          "SHINee"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the name of the 2015 JYP survival reality show that created the group TWICE?",
+        "options": [
+          "Sixteen",
+          "Produce 101",
+          "I-LAND",
+          "Mix Nine"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which K-pop girl group debuted in 2018 with the song 'Latata' under Cube Entertainment?",
+        "options": [
+          "(G)I-DLE",
+          "CLC",
+          "Apink",
+          "EXID"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What does the boy group name 'ATEEZ' stand for?",
+        "options": [
+          "A Teenager Z",
+          "All-in-one Teenagers",
+          "Artistic Teens",
+          "Active Teens Z"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which K-pop boy group debuted in 2012 with the twin singles 'MAMA' and has Chinese/Korean sub-units?",
+        "options": [
+          "EXO",
+          "NCT",
+          "Super Junior",
+          "VIXX"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Who was the first K-pop soloist to headline a major U.S. festival when they performed at Lollapalooza in 2022?",
+        "options": [
+          "J-Hope",
+          "Jimin",
+          "Suga",
+          "RM"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What was the name of Red Velvet's debut single released in August 2014?",
+        "options": [
+          "Happiness",
+          "Ice Cream Cake",
+          "Dumb Dumb",
+          "Red Flavor"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which BLACKPINK member released the chart-topping solo single 'SOLO' in 2018?",
+        "options": [
+          "Jennie",
+          "Jisoo",
+          "Rosé",
+          "Lisa"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      }
+    ]
+  },
+  "bts": {
+    "1": [
+      {
+        "question": "How many members are in the global K-pop sensation BTS?",
+        "options": [
+          "7",
+          "6",
+          "9",
+          "5"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the official fandom name of BTS?",
+        "options": [
+          "ARMY",
+          "BLINK",
+          "ONCE",
+          "EXO-L"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Who is the leader of BTS?",
+        "options": [
+          "RM (Kim Nam-joon)",
+          "Jin",
+          "Suga",
+          "J-Hope"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Who is the youngest member (maknae) of BTS?",
+        "options": [
+          "Jungkook",
+          "V",
+          "Jimin",
+          "J-Hope"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which chart-topping song was BTS's first-ever all-English single?",
+        "options": [
+          "Dynamite",
+          "Butter",
+          "Permission to Dance",
+          "Life Goes On"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which member of BTS is famously known by the nickname 'Worldwide Handsome'?",
+        "options": [
+          "Jin",
+          "V",
+          "Jimin",
+          "Jungkook"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What color is associated with the special BTS expression 'I Purple You' (Borahae)?",
+        "options": [
+          "Purple",
+          "Pink",
+          "Gold",
+          "Blue"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which member of BTS released the hit solo single 'Seven' in collaboration with Latto in 2023?",
+        "options": [
+          "Jungkook",
+          "Jimin",
+          "V",
+          "Suga"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which K-pop agency is BTS signed to?",
+        "options": [
+          "HYBE (Big Hit Music)",
+          "YG Entertainment",
+          "SM Entertainment",
+          "JYP Entertainment"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which BTS member is a main dancer and collaborated with Becky G on 'Chicken Noodle Soup'?",
+        "options": [
+          "J-Hope",
+          "Jimin",
+          "Jungkook",
+          "V"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      }
+    ],
+    "2": [
+      {
+        "question": "In which year did BTS officially debut with their first stage?",
+        "options": [
+          "2013",
+          "2012",
+          "2014",
+          "2015"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the title of BTS's debut single album released in June 2013?",
+        "options": [
+          "2 Cool 4 Skool",
+          "O!RUL8,2?",
+          "Skool Luv Affair",
+          "Dark & Wild"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which member of BTS releases solo rap projects under the name Agust D?",
+        "options": [
+          "Suga",
+          "RM",
+          "J-Hope",
+          "Jin"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which song gave BTS their first-ever K-pop music show win in May 2015?",
+        "options": [
+          "I Need U",
+          "Dope",
+          "Run",
+          "Boy in Luv"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the name of BTS's long-running variety web series that premiered in 2015?",
+        "options": [
+          "Run BTS!",
+          "BTS GAYO",
+          "BTS In the Soop",
+          "Bon Voyage"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which member of BTS made his acting debut in the 2016 historical K-drama 'Hwarang'?",
+        "options": [
+          "V (Kim Tae-hyung)",
+          "Jin",
+          "Jimin",
+          "Jungkook"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which BTS title track features vocals by American singer Halsey?",
+        "options": [
+          "Boy With Luv",
+          "ON",
+          "Idol",
+          "Fake Love"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the name of the popular line of character mascots created by BTS with LINE Friends?",
+        "options": [
+          "BT21",
+          "Blinks",
+          "Kakao Friends",
+          "TinyTAN"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which BTS member released a critically acclaimed jazz-inspired solo album called 'Layover' in 2023?",
+        "options": [
+          "V",
+          "Jimin",
+          "Jin",
+          "Jungkook"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which member released the experimental hip-hop solo album 'Jack in the Box' in 2022?",
+        "options": [
+          "J-Hope",
+          "RM",
+          "Suga",
+          "Jungkook"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      }
+    ],
+    "3": [
+      {
+        "question": "What was the exact date of BTS's debut stage performance?",
+        "options": [
+          "June 13, 2013",
+          "June 12, 2013",
+          "June 20, 2013",
+          "July 9, 2013"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is RM's real birth name?",
+        "options": [
+          "Kim Nam-joon",
+          "Kim Nam-woo",
+          "Kim Seok-jin",
+          "Kim Tae-hyung"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which BTS vocalist was born in Busan, South Korea alongside Jungkook?",
+        "options": [
+          "Jimin",
+          "V",
+          "Jin",
+          "Suga"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the name of Suga's solo documentary film released on Disney+ in 2023?",
+        "options": [
+          "SUGA: Road to D-DAY",
+          "SUGA: In the Box",
+          "SUGA: The Last",
+          "SUGA: Min PD Story"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the title of RM's second solo mixtape, released in 2018, which reached #26 on the Billboard 200?",
+        "options": [
+          "Mono",
+          "RM",
+          "Indigo",
+          "Hope World"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which multi-part album series includes the releases 'Her', 'Tear', and 'Answer'?",
+        "options": [
+          "Love Yourself",
+          "Map of the Soul",
+          "The Most Beautiful Moment in Life",
+          "Wings"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What was the name of Jin's beloved pet sugar glider that passed away?",
+        "options": [
+          "Jjangu",
+          "Eomuk",
+          "Odeng",
+          "Gukmul"
+        ],
+        "correct": 1,
+        "difficulty": "hard"
+      },
+      {
+        "question": "BTS collaborated with which legendary British rock band on the song 'My Universe'?",
+        "options": [
+          "Coldplay",
+          "U2",
+          "Maroon 5",
+          "Queen"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is J-Hope's real birth name?",
+        "options": [
+          "Jung Ho-seok",
+          "Jung Ho-bum",
+          "Kim Ji-min",
+          "Min Yoon-gi"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which melancholic BTS track features the English lyric 'Bogo sipda' (I miss you) and references a cold winter?",
+        "options": [
+          "Spring Day",
+          "Run",
+          "Fake Love",
+          "Butter"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      }
+    ]
+  },
+  "riddles": {
+    "1": [
+      {
+        "question": "What has hands but cannot clap?",
+        "options": [
+          "A clock",
+          "A glove",
+          "A table",
+          "A robot"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What has a face and two hands but no arms or legs?",
+        "options": [
+          "A clock",
+          "A mirror",
+          "A coin",
+          "A picture"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is full of holes but still holds water?",
+        "options": [
+          "A sponge",
+          "A bucket",
+          "A net",
+          "A colander"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What gets wetter the more it dries?",
+        "options": [
+          "A towel",
+          "A sponge",
+          "Rain",
+          "A cloud"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What goes up but never comes down?",
+        "options": [
+          "Your age",
+          "A balloon",
+          "A kite",
+          "Smoke"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What has a neck but no head?",
+        "options": [
+          "A bottle",
+          "A shirt",
+          "A violin",
+          "A giraffe"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What belongs to you, but other people use it much more than you do?",
+        "options": [
+          "Your name",
+          "Your phone",
+          "Your toys",
+          "Your shoes"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What can you catch but not throw?",
+        "options": [
+          "A cold",
+          "A ball",
+          "A butterfly",
+          "A secret"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What has a head and a tail but no body?",
+        "options": [
+          "A coin",
+          "A snake",
+          "A comet",
+          "A worm"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What has keys but cannot open any locks?",
+        "options": [
+          "A piano",
+          "A lockbox",
+          "A map",
+          "A safe"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      }
+    ],
+    "2": [
+      {
+        "question": "I am tall when I am young, and I am short when I am old. What am I?",
+        "options": [
+          "A candle",
+          "A tree",
+          "A pencil",
+          "A human"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What has to be broken before you can use it?",
+        "options": [
+          "An egg",
+          "A toy",
+          "A coconut",
+          "A glowstick"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What can run but cannot walk, has a mouth but cannot speak, and has a bed but never sleeps?",
+        "options": [
+          "A river",
+          "A train",
+          "A clock",
+          "An infant"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Where does Friday come before Thursday?",
+        "options": [
+          "In the dictionary",
+          "In a leap year",
+          "On a calendar",
+          "In space"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "If you feed me, I live. If you give me a drink, I die. What am I?",
+        "options": [
+          "Fire",
+          "A plant",
+          "A baby",
+          "A car"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What has one eye but cannot see at all?",
+        "options": [
+          "A needle",
+          "A hurricane",
+          "A cyclops",
+          "A potato"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is always in front of you but can never be seen?",
+        "options": [
+          "The future",
+          "The wind",
+          "Your nose",
+          "Your reflection"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "The more of them you take, the more you leave behind. What are they?",
+        "options": [
+          "Footsteps",
+          "Photos",
+          "Breaths",
+          "Hours"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What has teeth but cannot bite anything?",
+        "options": [
+          "A comb",
+          "A gear",
+          "A saw",
+          "A zipper"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What building has the most stories in the world?",
+        "options": [
+          "The library",
+          "Burj Khalifa",
+          "Empire State Building",
+          "A hotel"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      }
+    ],
+    "3": [
+      {
+        "question": "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",
+        "options": [
+          "An echo",
+          "A kite",
+          "A whistle",
+          "A radio"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "I have cities but no houses. I have mountains but no trees. I have water but no fish. What am I?",
+        "options": [
+          "A map",
+          "A globe",
+          "A photo",
+          "A painting"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is so fragile that saying its name breaks it?",
+        "options": [
+          "Silence",
+          "Glass",
+          "A secret",
+          "A bubble"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What can fill an entire room but takes up absolutely no physical space?",
+        "options": [
+          "Light",
+          "Air",
+          "Music",
+          "Smoke"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What has keys but no locks, space but no room, and you can enter but can't go outside?",
+        "options": [
+          "A keyboard",
+          "A computer",
+          "A piano",
+          "A typewriter"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "The person who makes it has no need of it; the person who buys it does not use it. The person who uses it does not know it. What is it?",
+        "options": [
+          "A coffin",
+          "A car",
+          "A bed",
+          "A tombstone"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "A man dies of old age on his 25th birthday. How is this possible?",
+        "options": [
+          "He was born on February 29 (leap day)",
+          "He lived on another planet",
+          "It was a simulation",
+          "He was born BC"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What has a thumb and four fingers, but is not alive and has no flesh?",
+        "options": [
+          "A glove",
+          "A skeleton hand",
+          "A shadow",
+          "A robot hand"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What goes through cities and over hills, but never moves an inch?",
+        "options": [
+          "A road",
+          "A river",
+          "A cloud",
+          "A railway"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "If a red house is made of red bricks, and a blue house is made of blue bricks, what is a greenhouse made of?",
+        "options": [
+          "Glass",
+          "Green bricks",
+          "Plants",
+          "Wood"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      }
+    ]
+  },
+  "animals": {
+    "1": [
+      {
+        "question": "What is the largest mammal on Earth?",
+        "options": [
+          "Blue Whale",
+          "African Elephant",
+          "Giraffe",
+          "Hippopotamus"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the tallest land animal in the world?",
+        "options": [
+          "Giraffe",
+          "Elephant",
+          "Ostrich",
+          "Moose"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which bird is famous for its colorful tail feathers that open like a massive fan?",
+        "options": [
+          "Peacock",
+          "Flamingo",
+          "Parrot",
+          "Swan"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which wild animal is widely known as the 'King of the Jungle'?",
+        "options": [
+          "Lion",
+          "Tiger",
+          "Gorilla",
+          "Jaguar"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which is the only mammal that is capable of true, sustained flight?",
+        "options": [
+          "Bat",
+          "Flying Squirrel",
+          "Eagle",
+          "Owl"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is a baby dog called?",
+        "options": [
+          "Puppy",
+          "Kitten",
+          "Cub",
+          "Fawn"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which slow-moving land mollusk carries its spiral shell on its back?",
+        "options": [
+          "Snail",
+          "Turtle",
+          "Slug",
+          "Crab"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What type of tropical fish is Nemo in the movie 'Finding Nemo'?",
+        "options": [
+          "Clownfish",
+          "Goldfish",
+          "Blue Tang",
+          "Angelfish"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "How many legs does a spider typically have?",
+        "options": [
+          "8",
+          "6",
+          "10",
+          "12"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which famous black-and-white bear's diet consists almost entirely of bamboo?",
+        "options": [
+          "Giant Panda",
+          "Polar Bear",
+          "Grizzly Bear",
+          "Koala Bear"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      }
+    ],
+    "2": [
+      {
+        "question": "What is the fastest land animal in the world over short distances?",
+        "options": [
+          "Cheetah",
+          "Pronghorn",
+          "Lion",
+          "Gazelle"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which sea creature has three hearts and blue blood?",
+        "options": [
+          "Octopus",
+          "Squid",
+          "Starfish",
+          "Jellyfish"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is a baby kangaroo called?",
+        "options": [
+          "Joey",
+          "Cub",
+          "Calf",
+          "Kid"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which flightless bird is an excellent swimmer and lives almost exclusively in the Southern Hemisphere?",
+        "options": [
+          "Penguin",
+          "Ostrich",
+          "Kiwi",
+          "Emu"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the only continent where wild koalas can be found in their natural habitat?",
+        "options": [
+          "Australia",
+          "Asia",
+          "Africa",
+          "South America"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "How many legs does a lobster have in total (including claws)?",
+        "options": [
+          "10",
+          "8",
+          "6",
+          "12"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What color is a polar bear's skin underneath its thick white fur?",
+        "options": [
+          "Black",
+          "White",
+          "Pink",
+          "Gray"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which marine vertebrate animal is believed to have the longest lifespan, potentially living over 400 years?",
+        "options": [
+          "Greenland shark",
+          "Blue whale",
+          "Bowhead whale",
+          "Galapagos tortoise"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is a family group of lions called?",
+        "options": [
+          "A pride",
+          "A pack",
+          "A herd",
+          "A flock"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which large African mammal is known to have one of the strongest bite forces among land mammals?",
+        "options": [
+          "Hippopotamus",
+          "Lion",
+          "Hyena",
+          "Grizzly Bear"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      }
+    ],
+    "3": [
+      {
+        "question": "Which animal has the largest eyes of any living creature, measuring up to 27 cm across?",
+        "options": [
+          "Colossal Squid",
+          "Blue Whale",
+          "Ostrich",
+          "Giant Squid"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which is the only male animal in the world that gets pregnant and gives birth?",
+        "options": [
+          "Seahorse",
+          "Pipefish",
+          "Platypus",
+          "Frog"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which mammal has the densest fur of any animal, with up to one million hairs per square inch?",
+        "options": [
+          "Sea otter",
+          "Chinchilla",
+          "Polar bear",
+          "Beaver"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which living animal shares the highest percentage of DNA with humans?",
+        "options": [
+          "Chimpanzee",
+          "Gorilla",
+          "Orangutan",
+          "Bonobo"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "How many neck vertebrae does a giraffe have (the same number as humans)?",
+        "options": [
+          "7",
+          "14",
+          "9",
+          "12"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the largest species of big cat in the world?",
+        "options": [
+          "Siberian Tiger",
+          "African Lion",
+          "Jaguar",
+          "Cougar"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which tiny insect is famous for being able to lift and carry objects up to 50 times its own body weight?",
+        "options": [
+          "Ant",
+          "Beetle",
+          "Flea",
+          "Grasshopper"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which is the only bird that is capable of flying backward?",
+        "options": [
+          "Hummingbird",
+          "Kingfisher",
+          "Swallow",
+          "Woodpecker"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "The name of which large semi-aquatic mammal literally translates to 'river horse' in Greek?",
+        "options": [
+          "Hippopotamus",
+          "Manatee",
+          "Walrus",
+          "Seal"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is a group of flamingos called?",
+        "options": [
+          "A flamboyance",
+          "A stand",
+          "A colony",
+          "A flock"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      }
+    ]
+  },
+  "space": {
+    "1": [
+      {
+        "question": "What is the name of the closest star to planet Earth?",
+        "options": [
+          "The Sun",
+          "Proxima Centauri",
+          "Sirius",
+          "Polaris"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "How many planets are there in our solar system?",
+        "options": [
+          "8",
+          "9",
+          "7",
+          "10"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which planet in our solar system is widely known as the 'Red Planet'?",
+        "options": [
+          "Mars",
+          "Venus",
+          "Jupiter",
+          "Mercury"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the largest planet in our solar system?",
+        "options": [
+          "Jupiter",
+          "Saturn",
+          "Neptune",
+          "Earth"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the name of the invisible force that pulls objects down toward the ground?",
+        "options": [
+          "Gravity",
+          "Magnetism",
+          "Friction",
+          "Inertia"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the name of the galaxy that contains our solar system?",
+        "options": [
+          "Milky Way",
+          "Andromeda",
+          "Triangulum",
+          "Sombrero"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What natural satellite orbits the Earth?",
+        "options": [
+          "The Moon",
+          "Sputnik",
+          "Titan",
+          "Europa"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Who was the first human to ever walk on the surface of the Moon?",
+        "options": [
+          "Neil Armstrong",
+          "Buzz Aldrin",
+          "Yuri Gagarin",
+          "Alan Shepard"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which planet is famous for its beautiful, bright ring system?",
+        "options": [
+          "Saturn",
+          "Uranus",
+          "Neptune",
+          "Jupiter"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What do we call a scientist who specializes in studying stars, planets, and space?",
+        "options": [
+          "Astronomer",
+          "Geologist",
+          "Meteorologist",
+          "Biologist"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      }
+    ],
+    "2": [
+      {
+        "question": "Which planet is the hottest in our solar system, with surface temperatures over 450°C?",
+        "options": [
+          "Venus",
+          "Mercury",
+          "Mars",
+          "Jupiter"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which dwarf planet was classified as the ninth planet of our solar system until 2006?",
+        "options": [
+          "Pluto",
+          "Ceres",
+          "Eris",
+          "Makemake"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Approximately how long does it take for light from the Sun to travel to Earth?",
+        "options": [
+          "8 minutes",
+          "8 seconds",
+          "1 hour",
+          "24 hours"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which planet is closest to the Sun?",
+        "options": [
+          "Mercury",
+          "Venus",
+          "Earth",
+          "Mars"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What was the name of the first artificial satellite launched into orbit by humans in 1957?",
+        "options": [
+          "Sputnik 1",
+          "Explorer 1",
+          "Vostok 1",
+          "Apollo 11"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the giant red spot on the planet Jupiter?",
+        "options": [
+          "A massive storm",
+          "A large volcano",
+          "A red desert",
+          "An impact crater"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "How many moons does Mars have?",
+        "options": [
+          "2",
+          "1",
+          "0",
+          "4"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the abbreviation of the U.S. government agency responsible for space exploration and aeronautics?",
+        "options": [
+          "NASA",
+          "ESA",
+          "JAXA",
+          "Roscosmos"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is a 'shooting star' actually?",
+        "options": [
+          "A meteor burning up in Earth's atmosphere",
+          "A star exploding",
+          "A piece of the Moon",
+          "A spaceship"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which planet in our solar system is unique because it orbits the Sun tilted on its side?",
+        "options": [
+          "Uranus",
+          "Neptune",
+          "Venus",
+          "Saturn"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      }
+    ],
+    "3": [
+      {
+        "question": "What is the name of the closest spiral galaxy to our own Milky Way?",
+        "options": [
+          "Andromeda",
+          "Triangulum",
+          "Large Magellanic Cloud",
+          "Whirlpool"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "In what year did the historic Apollo 11 mission land on the Moon?",
+        "options": [
+          "1969",
+          "1965",
+          "1972",
+          "1975"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the boundary surrounding a black hole from which nothing, not even light, can escape?",
+        "options": [
+          "Event Horizon",
+          "Singularity",
+          "Accretion Disk",
+          "Schwarschild Limit"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which planet overtook Jupiter in 2019 as the planet with the most confirmed moons in our solar system?",
+        "options": [
+          "Saturn",
+          "Uranus",
+          "Neptune",
+          "Jupiter"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the name of Saturn's largest moon, which has a dense atmosphere and liquid methane lakes?",
+        "options": [
+          "Titan",
+          "Europa",
+          "Ganymede",
+          "Enceladus"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the name of the largest volcano and mountain in our solar system, located on Mars?",
+        "options": [
+          "Olympus Mons",
+          "Mauna Kea",
+          "Mount Vesuvius",
+          "Tharsis Mons"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Approximately how many Earths could fit inside the Sun?",
+        "options": [
+          "1.3 million",
+          "10,000",
+          "500,000",
+          "5 million"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the name of the state-of-the-art space telescope launched in December 2021 to succeed Hubble?",
+        "options": [
+          "James Webb Space Telescope",
+          "Kepler Telescope",
+          "Spitzer Telescope",
+          "Chandra Observatory"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the name of the brightest star visible in the night sky from Earth?",
+        "options": [
+          "Sirius",
+          "Betelgeuse",
+          "Polaris",
+          "Vega"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the scientific term for the powerful and luminous explosion of a dying giant star?",
+        "options": [
+          "Supernova",
+          "Nebula",
+          "Solar Flare",
+          "Red Giant"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      }
+    ]
+  },
+  "cartoons": {
+    "1": [
+      {
+        "question": "Who is Mickey Mouse's girlfriend?",
+        "options": [
+          "Minnie Mouse",
+          "Daisy Duck",
+          "Clarabelle Cow",
+          "Lilo"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which Disney princess is known for her extremely long, magical golden hair?",
+        "options": [
+          "Rapunzel",
+          "Cinderella",
+          "Belle",
+          "Snow White"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the name of the toy cowboy who serves as the main protagonist in Toy Story?",
+        "options": [
+          "Woody",
+          "Buzz Lightyear",
+          "Rex",
+          "Slinky"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which Disney princess famously loses her glass slipper at midnight?",
+        "options": [
+          "Cinderella",
+          "Ariel",
+          "Sleeping Beauty",
+          "Jasmine"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What kind of animal is Simba in the movie 'The Lion King'?",
+        "options": [
+          "Lion",
+          "Tiger",
+          "Leopard",
+          "Cheetah"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Who lives in a yellow pineapple under the sea in Bikini Bottom?",
+        "options": [
+          "SpongeBob SquarePants",
+          "Patrick Star",
+          "Squidward",
+          "Sandy Cheeks"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which Ice Queen princess sings the hit song 'Let It Go' in Frozen?",
+        "options": [
+          "Elsa",
+          "Anna",
+          "Olaf",
+          "Kristoff"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the name of Mickey Mouse's friendly pet dog?",
+        "options": [
+          "Pluto",
+          "Goofy",
+          "Donald",
+          "Bolt"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the name of the lightning-fast red race car in the movie 'Cars'?",
+        "options": [
+          "Lightning McQueen",
+          "Tow Mater",
+          "Doc Hudson",
+          "Francesco"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the name of 'The Little Mermaid' in the classic Disney film?",
+        "options": [
+          "Ariel",
+          "Melody",
+          "Ursula",
+          "Belle"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      }
+    ],
+    "2": [
+      {
+        "question": "What is the name of the fictional town where the Simpson family lives?",
+        "options": [
+          "Springfield",
+          "Quahog",
+          "South Park",
+          "Bikini Bottom"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which iconic Disney movie features the famous song 'Hakuna Matata'?",
+        "options": [
+          "The Lion King",
+          "Aladdin",
+          "Tarzan",
+          "Mulan"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the name of Aladdin's mischievous pet monkey?",
+        "options": [
+          "Abu",
+          "Rajah",
+          "Iago",
+          "Meeko"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Who is the main sea witch villain in Disney's 'The Little Mermaid'?",
+        "options": [
+          "Ursula",
+          "Maleficent",
+          "Cruella",
+          "Gothel"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What are the names of the three cute kittens in Disney's 'The Aristocats'?",
+        "options": [
+          "Marie, Toulouse, Berlioz",
+          "Huey, Dewey, Louie",
+          "Alvin, Simon, Theodore",
+          "Tick, Trick, Track"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which cartoon features a group of teenagers and their talking Great Dane solving supernatural mysteries?",
+        "options": [
+          "Scooby-Doo",
+          "Tom and Jerry",
+          "Looney Tunes",
+          "Teen Titans"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "In the Pixar movie 'Up', how does Carl Fredricksen make his house fly?",
+        "options": [
+          "Using thousands of helium balloons",
+          "Using a giant fan",
+          "Using magic dust",
+          "Using a rocket engine"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the name of the tiny, sassy fairy friend of Peter Pan?",
+        "options": [
+          "Tinker Bell",
+          "Silvermist",
+          "Rosetta",
+          "Fawn"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the name of the large green ogre who loves his swamp and has a donkey friend?",
+        "options": [
+          "Shrek",
+          "Fiona",
+          "Farquaad",
+          "Puss"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "In the movie 'Monsters, Inc.', what do the monsters collect from human children to power their city?",
+        "options": [
+          "Screams",
+          "Laughter",
+          "Toys",
+          "Dreams"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      }
+    ],
+    "3": [
+      {
+        "question": "What was the very first full-length animated feature film ever released by Walt Disney in 1937?",
+        "options": [
+          "Snow White and the Seven Dwarfs",
+          "Pinocchio",
+          "Fantasia",
+          "Dumbo"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "In what year was the legendary character Mickey Mouse first introduced to the public?",
+        "options": [
+          "1928",
+          "1925",
+          "1930",
+          "1935"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What was the title of the landmark 1928 cartoon starring Mickey Mouse that was the first to feature synchronized sound?",
+        "options": [
+          "Steamboat Willie",
+          "Plane Crazy",
+          "The Gallopin' Gaucho",
+          "Silly Symphonies"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which Disney princess was inspired by an actual, real-life historical person?",
+        "options": [
+          "Pocahontas",
+          "Mulan",
+          "Tiana",
+          "Aurora"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the name of the tiny red dragon who acts as Mulan's guardian in the animated film?",
+        "options": [
+          "Mushu",
+          "Cri-Kee",
+          "Khan",
+          "Shan Yu"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "In the Pixar film 'Inside Out', which five emotions are depicted inside Riley's head?",
+        "options": [
+          "Joy, Sadness, Anger, Fear, Disgust",
+          "Joy, Sadness, Anger, Fear, Envy",
+          "Happiness, Sadness, Anger, Anxiety, Disgust",
+          "Joy, Grief, Anger, Fear, Shyness"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which famous Hollywood actor voiced the Genie in Disney's original 1992 animated film 'Aladdin'?",
+        "options": [
+          "Robin Williams",
+          "Tom Hanks",
+          "Jim Carrey",
+          "Billy Crystal"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Who is Donald Duck's twin sister, who is also the mother of Huey, Dewey, and Louie?",
+        "options": [
+          "Della Duck",
+          "Daisy Duck",
+          "Hortense Duck",
+          "Matilda Duck"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "In Disney's 1959 film 'Sleeping Beauty', what is the name of the evil Maleficent's pet raven?",
+        "options": [
+          "Diablo",
+          "Raven",
+          "Gloom",
+          "Malice"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which classic Disney animated film features the famous romantic song 'Bella Notte' during a spaghetti dinner?",
+        "options": [
+          "Lady and the Tramp",
+          "Cinderella",
+          "101 Dalmatians",
+          "The Aristocats"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      }
+    ]
+  },
+  "food": {
+    "1": [
+      {
+        "question": "What is the main agricultural ingredient used to make chocolate?",
+        "options": [
+          "Cocoa beans",
+          "Coffee beans",
+          "Soybeans",
+          "Vanilla pods"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which Italian dish consists of a baked flat bread base topped with tomato sauce and cheese?",
+        "options": [
+          "Pizza",
+          "Pasta",
+          "Risotto",
+          "Lasagna"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which popular fruit is said to keep the doctor away if eaten once a day?",
+        "options": [
+          "Apple",
+          "Orange",
+          "Banana",
+          "Grape"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the name of the sweet, sticky fluid made by honeybees?",
+        "options": [
+          "Honey",
+          "Nectar",
+          "Sap",
+          "Syrup"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What cold, sweet dairy dessert is typically served in a wafer cone or small cup?",
+        "options": [
+          "Ice Cream",
+          "Yogurt",
+          "Pudding",
+          "Custard"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is a dried grape called?",
+        "options": [
+          "Raisin",
+          "Prune",
+          "Fig",
+          "Date"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the main dry ingredient used in making standard bread dough?",
+        "options": [
+          "Flour",
+          "Sugar",
+          "Yeast",
+          "Baking powder"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which curved yellow fruit is rich in potassium and famously loved by monkeys?",
+        "options": [
+          "Banana",
+          "Pineapple",
+          "Lemon",
+          "Mango"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the name of the popular, long, thin French loaf of bread?",
+        "options": [
+          "Baguette",
+          "Croissant",
+          "Ciabatta",
+          "Brioche"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the primary food source of giant pandas in the wild?",
+        "options": [
+          "Bamboo",
+          "Eucalyptus",
+          "Grass",
+          "Leaves"
+        ],
+        "correct": 0,
+        "difficulty": "easy"
+      }
+    ],
+    "2": [
+      {
+        "question": "Which European country is widely credited with the invention of pasta?",
+        "options": [
+          "Italy",
+          "France",
+          "Spain",
+          "Greece"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the name of the spicy green paste made from a root vegetable, traditionally served with sushi?",
+        "options": [
+          "Wasabi",
+          "Ginger",
+          "Pesto",
+          "Chimichurri"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the most expensive spice in the world by weight, harvested from crocus flowers?",
+        "options": [
+          "Saffron",
+          "Vanilla",
+          "Cardamom",
+          "Cinnamon"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which popular red fruit uniquely has its seeds growing on the outside of its skin?",
+        "options": [
+          "Strawberry",
+          "Raspberry",
+          "Blueberry",
+          "Cherry"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which common bulb vegetable is famous for releasing gas that makes your eyes water when chopped?",
+        "options": [
+          "Onion",
+          "Garlic",
+          "Leek",
+          "Potato"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is a dried plum called?",
+        "options": [
+          "Prune",
+          "Raisin",
+          "Fig",
+          "Apricot"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the name of the traditional Mexican green dip made from mashed ripe avocados?",
+        "options": [
+          "Guacamole",
+          "Salsa",
+          "Hummus",
+          "Pesto"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which dairy product is made by churning fresh cream until it solidifies?",
+        "options": [
+          "Butter",
+          "Cheese",
+          "Margarine",
+          "Yogurt"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What sweet syrup is harvested by tapping the trunks of maple trees?",
+        "options": [
+          "Maple syrup",
+          "Honey",
+          "Agave nectar",
+          "Molasses"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the primary ingredient in the traditional Middle Eastern dip called hummus?",
+        "options": [
+          "Chickpeas",
+          "Lentils",
+          "Black beans",
+          "Peas"
+        ],
+        "correct": 0,
+        "difficulty": "medium"
+      }
+    ],
+    "3": [
+      {
+        "question": "What is the name of the classic French pastry consisting of layers of puff pastry and pastry cream?",
+        "options": [
+          "Mille-feuille",
+          "Éclair",
+          "Macaron",
+          "Profiterole"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which fizzy fermented tea drink is made using a symbiotic culture of bacteria and yeast (SCOBY)?",
+        "options": [
+          "Kombucha",
+          "Kefir",
+          "Matcha",
+          "Chai"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What underground fungus is highly prized in cooking, extremely expensive, and located using trained dogs or pigs?",
+        "options": [
+          "Truffle",
+          "Morel",
+          "Shiitake",
+          "Porcini"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the name of the traditional Spanish rice dish cooked with saffron, vegetables, and seafood or meat?",
+        "options": [
+          "Paella",
+          "Risotto",
+          "Biryani",
+          "Pilaf"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which Southeast Asian fruit is banned on public transit in Singapore due to its notoriously strong and pungent odor?",
+        "options": [
+          "Durian",
+          "Jackfruit",
+          "Rambutan",
+          "Mangosteen"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the name of the traditional Swiss dish of melted cheese served in a communal pot over a portable stove?",
+        "options": [
+          "Fondue",
+          "Raclette",
+          "Quiche",
+          "Gratin"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which national dish of Canada consists of french fries topped with fresh cheese curds and hot brown gravy?",
+        "options": [
+          "Poutine",
+          "Nanaimo Bar",
+          "Tourtière",
+          "Bannock"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which sweet and aromatic spice is harvested from the inner bark of several tree species?",
+        "options": [
+          "Cinnamon",
+          "Nutmeg",
+          "Cloves",
+          "Ginger"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the name of the traditional Italian style of ice cream, which is denser and has less fat than American ice cream?",
+        "options": [
+          "Gelato",
+          "Sorbet",
+          "Granita",
+          "Sherbet"
+        ],
+        "correct": 0,
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the primary vegetable ingredient in traditional Korean cabbage kimchi?",
+        "options": [
+          "Napa Cabbage",
+          "Bok Choy",
+          "Lettuce",
+          "Kale"
         ],
         "correct": 0,
         "difficulty": "hard"

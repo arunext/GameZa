@@ -380,6 +380,116 @@
           </div>
           <button class="select-btn">SELECT STAGE</button>
         </div>
+
+        <!-- 21. Japan Tour -->
+        <div class="topic-card card-purple" data-topic="japan">
+          <div class="topic-card-glow"></div>
+          <div class="topic-icon"><i class="fas fa-torii-gate"></i></div>
+          <div class="topic-info">
+            <h2 class="topic-title">JAPAN TOUR</h2>
+            <p class="topic-desc">Explore bullet trains, Kyoto temples, matcha, and anime landmarks.</p>
+          </div>
+          <button class="select-btn">SELECT STAGE</button>
+        </div>
+
+        <!-- 22. South Korea -->
+        <div class="topic-card card-cyan" data-topic="korea">
+          <div class="topic-card-glow"></div>
+          <div class="topic-icon"><i class="fas fa-landmark"></i></div>
+          <div class="topic-info">
+            <h2 class="topic-title">SOUTH KOREA</h2>
+            <p class="topic-desc">Hangul alphabet, delicious K-food, Jeju volcanos, and Seoul palaces.</p>
+          </div>
+          <button class="select-btn">SELECT STAGE</button>
+        </div>
+
+        <!-- 23. World Flags -->
+        <div class="topic-card card-gold" data-topic="flags">
+          <div class="topic-card-glow"></div>
+          <div class="topic-icon"><i class="fas fa-flag"></i></div>
+          <div class="topic-info">
+            <h2 class="topic-title">WORLD FLAGS</h2>
+            <p class="topic-desc">Test your eye for national flags, stars, stripes, and unique emblems.</p>
+          </div>
+          <button class="select-btn">SELECT STAGE</button>
+        </div>
+
+        <!-- 24. K-Pop General -->
+        <div class="topic-card card-pink" data-topic="kpop">
+          <div class="topic-card-glow"></div>
+          <div class="topic-icon"><i class="fas fa-music"></i></div>
+          <div class="topic-info">
+            <h2 class="topic-title">K-POP GENERAL</h2>
+            <p class="topic-desc">Trivia on TWICE, NewJeans, Stray Kids, SEVENTEEN, and agency history.</p>
+          </div>
+          <button class="select-btn">SELECT STAGE</button>
+        </div>
+
+        <!-- 25. BTS Universe -->
+        <div class="topic-card card-purple" data-topic="bts">
+          <div class="topic-card-glow"></div>
+          <div class="topic-icon"><i class="fas fa-microphone"></i></div>
+          <div class="topic-info">
+            <h2 class="topic-title">BTS UNIVERSE</h2>
+            <p class="topic-desc">Fun trivia on members (RM, Jimin, Jungkook, V), ARMY, and MV hits.</p>
+          </div>
+          <button class="select-btn">SELECT STAGE</button>
+        </div>
+
+        <!-- 26. Riddle Master -->
+        <div class="topic-card card-red" data-topic="riddles">
+          <div class="topic-card-glow"></div>
+          <div class="topic-icon"><i class="fas fa-brain"></i></div>
+          <div class="topic-info">
+            <h2 class="topic-title">RIDDLE MASTER</h2>
+            <p class="topic-desc">Fun, kid-friendly brain teasers and word riddles to test your logic.</p>
+          </div>
+          <button class="select-btn">SELECT STAGE</button>
+        </div>
+
+        <!-- 27. Animal Kingdom -->
+        <div class="topic-card card-cyan" data-topic="animals">
+          <div class="topic-card-glow"></div>
+          <div class="topic-icon"><i class="fas fa-paw"></i></div>
+          <div class="topic-info">
+            <h2 class="topic-title">ANIMAL KINGDOM</h2>
+            <p class="topic-desc">Cheetah speeds, giant pandas, blue whale sizes, and seahorse secrets.</p>
+          </div>
+          <button class="select-btn">SELECT STAGE</button>
+        </div>
+
+        <!-- 28. Space & Planets -->
+        <div class="topic-card card-purple" data-topic="space">
+          <div class="topic-card-glow"></div>
+          <div class="topic-icon"><i class="fas fa-user-astronaut"></i></div>
+          <div class="topic-info">
+            <h2 class="topic-title">SPACE & PLANETS</h2>
+            <p class="topic-desc">Discover facts about the Solar System, Mars, black holes, and the stars.</p>
+          </div>
+          <button class="select-btn">SELECT STAGE</button>
+        </div>
+
+        <!-- 29. Disney & Cartoons -->
+        <div class="topic-card card-gold" data-topic="cartoons">
+          <div class="topic-card-glow"></div>
+          <div class="topic-icon"><i class="fas fa-film"></i></div>
+          <div class="topic-info">
+            <h2 class="topic-title">DISNEY & CARTOONS</h2>
+            <p class="topic-desc">Questions on Rapunzel, Cinderella, Simba, Shrek, and animated films.</p>
+          </div>
+          <button class="select-btn">SELECT STAGE</button>
+        </div>
+
+        <!-- 30. Food & Sweets -->
+        <div class="topic-card card-red" data-topic="food">
+          <div class="topic-card-glow"></div>
+          <div class="topic-icon"><i class="fas fa-cookie-bite"></i></div>
+          <div class="topic-info">
+            <h2 class="topic-title">FOOD & SWEETS</h2>
+            <p class="topic-desc">International dishes, chocolates, candy, wasabi, and delicious recipes.</p>
+          </div>
+          <button class="select-btn">SELECT STAGE</button>
+        </div>
       </div>
     </section>
 
@@ -484,7 +594,10 @@
         <div class="overlay-character-showcase">
           <img id="overlay-char-img" src="assets/rose.png" alt="Celebration Character">
         </div>
-        <button id="btn-next-level" class="action-btn neon-glow-pink">NEXT STAGE</button>
+        <div class="level-up-actions" style="display: flex; gap: 15px; justify-content: center; width: 100%; margin-top: 15px;">
+          <button id="btn-next-level" class="action-btn neon-glow-pink" style="margin: 0; flex: 1; max-width: 180px;">NEXT STAGE</button>
+          <button id="btn-change-topic-mid" class="action-btn neon-glow-cyan" style="margin: 0; flex: 1; max-width: 180px;">CHANGE TOPIC</button>
+        </div>
       </div>
       <canvas id="confetti-canvas"></canvas>
     </div>

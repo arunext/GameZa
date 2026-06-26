@@ -186,6 +186,21 @@ body::before {
   transform: translateY(1px);
 }
 
+.neon-glow-cyan {
+  background: #00bfff;
+  color: var(--text-white);
+  box-shadow: 0 0 20px rgba(0, 191, 255, 0.4);
+}
+
+.neon-glow-cyan:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 0 30px #00bfff, 0 0 10px rgba(0, 191, 255, 0.5);
+}
+
+.neon-glow-cyan:active {
+  transform: translateY(1px);
+}
+
 /* Game container */
 .game-container {
   width: 100%;

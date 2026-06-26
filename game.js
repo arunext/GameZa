@@ -28,6 +28,7 @@ let state = {
   level: 1,            // 1, 2, 3
   streak: 0,           // 0 to 10
   score: 0,            // Total game score
+  nextLevelTarget: null, // target level if changing topic mid-game
   soundEnabled: true,
   
   // Quiz state
@@ -65,6 +66,7 @@ const elements = {
   soundIcon: document.getElementById("sound-icon"),
   btnRestart: document.getElementById("btn-restart"),
   btnNextLevel: document.getElementById("btn-next-level"),
+  btnChangeTopicMid: document.getElementById("btn-change-topic-mid"),
   btnPlayAgain: document.getElementById("btn-play-again"),
   btnShareStats: document.getElementById("btn-share-stats"),
   
@@ -507,6 +509,11 @@ function initLevel(levelNum) {
   state.streak = 0;
   state.runnerPos = 0;
   
+  if (levelNum === 1) {
+    state.score = 0;
+    elements.scoreNum.textContent = 0;
+  }
+  
   // Set stage theme color properties dynamically
   const colors = STAGE_THEME_COLORS[levelNum];
   document.documentElement.style.setProperty('--bp-pink', colors.primary);
@@ -711,6 +718,15 @@ elements.btnNextLevel.addEventListener("click", () => {
   initLevel(state.level + 1);
 });
 
+// Change topic mid-game button
+elements.btnChangeTopicMid.addEventListener("click", () => {
+  playSound('select');
+  screens.levelUp.classList.add("hidden");
+  stopConfetti();
+  state.nextLevelTarget = state.level + 1;
+  setScreen("topic");
+});
+
 // Restart controls
 function handleRestartGame() {
   playSound('select');
@@ -778,9 +794,11 @@ document.querySelectorAll(".topic-card").forEach(card => {
     
     playSound('select');
     
-    // Start game on Level 1
+    // Start game on Level 1, or the next level target if mid-game transition is active
     setScreen("game");
-    initLevel(1);
+    const targetLvl = state.nextLevelTarget || 1;
+    state.nextLevelTarget = null; // Reset
+    initLevel(targetLvl);
   });
 });
 
